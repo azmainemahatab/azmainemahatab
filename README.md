@@ -82,7 +82,6 @@ I'm continuing to build an interdisciplinary profile connecting **botany, health
 <p align="left">
   🌐 Portfolio: <a href="https://azmainemahatab.github.io/">azmainemahatab.github.io</a><br/>
   💼 LinkedIn: <a href="https://linkedin.com/in/mahatabazmaine">linkedin.com/in/mahatabazmaine</a><br/>
-  ✉️ Email: rifatmahtab107@gmail.com<br/>
   📍 Location: Mymensingh, Bangladesh
 </p>
 

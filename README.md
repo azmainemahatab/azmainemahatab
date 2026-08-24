@@ -1,114 +1,89 @@
-Mahatab Azmaine Refat
-
-Health Science • Public Health • Plant Science • Research
-
-I am a Health Science student and emerging researcher interested in the intersection of human health, public health, plant science, research, data, and technology.
-
-My academic journey brings together health science and botany, with a growing focus on evidence-based research, interdisciplinary learning, and practical digital work.
+<h1 align="center">Hi there, I'm Mahatab Azmaine Refat 👋</h1>
+<h3 align="center">Botany & Health Science Student | Emerging Researcher | Interdisciplinary Learner</h3>
 
 <p align="center">
-  <a href="https://azmainemahatab.github.io/">
-    <strong>🌐 View My Portfolio</strong>
-  </a>
+  <a href="https://azmainemahatab.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=flat-square" /></a>
+  <a href="https://linkedin.com/in/mahatabazmaine"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" /></a>
+  <a href="mailto:rifatmahtab107@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square" /></a>
 </p>
 
-About
+---
 
-🎓 Building an interdisciplinary academic background across Health Science and Botany
+### 🧬 About Me
 
-🔬 Interested in public health, health research, plant–health relationships, and evidence-based practice
+I'm a final-year **B.Sc. (Honours) in Botany** student at Gurudayal Government College (National University), also pursuing an **Associate Degree in Health Science** at the University of the People. My academic journey bridges **plant science, health, and research**, with a growing focus on evidence-based practice, data, and digital tools.
 
-📊 Developing skills in data analysis, research, scientific communication, and digital tools
+- 🎓 Building an interdisciplinary background across **Botany and Health Science**
+- 🔬 Interested in plant–health relationships, public health, ethnobotany, and conservation biology
+- 🌍 Volunteer mentor with the **UNDP FutureNation Programme**
+- 🇿🇲 Online volunteer with **Zambia's Ministry of Youth, Sport and Arts** (UN Volunteers)
+- 📊 Developing skills in data analysis, research, and scientific communication
+- 💻 Practical experience in web development, digital marketing, and SEO
+- 📚 Committed to continuous learning and academic growth
 
-💻 Building practical experience through web, digital, and technology-focused projects
+---
 
-🌱 Interested in connecting environmental and plant science with human health
+### 🏆 Academic & Professional Highlights
 
-📚 Committed to continuous learning and academic development
+| Area | Highlight |
+|---|---|
+| 🎓 Academic Recognition | 4x President's List honoree |
+| 📜 Certifications | 22+ professional & academic certifications |
+| 🌐 Research Communities | Member of 6 international scientific societies |
+| 💼 Professional Experience | Sales Manager (Pubali Bank), Admin/HR Intern (YSSE & BYOSD) |
+| 📺 Digital Outreach | 1,360+ YouTube subscribers |
 
-Research Interests
+---
 
-Public Health · Health Science · Plant Science · Botany · Environmental Health · Health Research · Data & Analytics · Digital Health
+### 🔬 Research & Professional Affiliations
+*(Student / Associate Member, since 2025)*
 
-Academic & Professional Highlights
+- European Federation of Biotechnology  
+- International Association for Plant Taxonomy  
+- Society for Ethnobotany  
+- Botanical Society of America  
+- Society for Conservation Biology  
+- Society for the Study of Evolution  
 
-Area
+---
 
-Highlight
+### 🛠️ Technical & Research Skills
 
-Academic recognition
+**Research & Academic**
+`Literature Review` `Evidence Synthesis` `Academic Writing` `APA Referencing` `Scientific Communication`
 
-4 President's List terms
+**Data & Analytics**
+`Statistics` `Data Interpretation` `Data Visualization` `Spreadsheet Analysis`
 
-Certifications
+**Technology**
+`HTML` `CSS` `JavaScript` `Git & GitHub` `GitHub Pages`
 
-22 certifications
+**Business & Digital**
+`Digital Marketing` `SEO` `HR & Administration` `Sales Management`
 
-Research communities
+---
 
-6 global research societies
+### 🌟 Featured Project
 
-Digital outreach
+**[Personal Academic & Research Portfolio](https://azmainemahatab.github.io/)**
+A complete showcase of my academic background, research interests, leadership experience, skills, and certifications.
+🔗 Repository: [azmainemahatab.github.io](https://github.com/azmainemahatab/azmainemahatab.github.io)
 
-1,360+ YouTube subscribers
+---
 
-Technical & Research Skills
+### 🎯 Current Direction
 
-Research & Academic
+I'm continuing to build an interdisciplinary profile connecting **botany, health science, research, and technology** — with the long-term goal of contributing to evidence-informed work that bridges scientific knowledge with real-world impact.
 
-Literature review and evidence synthesis
+---
 
-Academic writing and scientific communication
+### 📫 Connect With Me
 
-Research-oriented information analysis
-
-APA-style academic referencing
-
-Data & Analytics
-
-Statistics and quantitative reasoning
-
-Data interpretation and visualization
-
-Spreadsheet-based analysis
-
-Technology
-
-HTML
-
-CSS
-
-JavaScript
-
-Git & GitHub
-
-GitHub Pages
-
-Digital content development
-
-Featured Project
-
-Personal Academic & Research Portfolio
-
-My portfolio brings together my academic background, research interests, experience, leadership activities, skills, certifications, and selected digital work.
-
-Portfolio:
-https://azmainemahatab.github.io/
-
-Repository:
-https://github.com/azmainemahatab/azmainemahatab.github.io
-
-Current Direction
-
-I am continuing to develop an interdisciplinary profile connecting health science, public health, plant science, research, data, and technology.
-
-My long-term goal is to contribute to meaningful, evidence-informed work that connects scientific knowledge with real-world health impact.
-
-Connect
-
-🌐 Portfolio: https://azmainemahatab.github.io/
-💻 GitHub: https://github.com/azmainemahatab
-
-<p align="center">
-  <sub>Academic portfolio • Research • Learning • Digital work</sub>
+<p align="left">
+  🌐 Portfolio: <a href="https://azmainemahatab.github.io/">azmainemahatab.github.io</a><br/>
+  💼 LinkedIn: <a href="https://linkedin.com/in/mahatabazmaine">linkedin.com/in/mahatabazmaine</a><br/>
+  ✉️ Email: rifatmahtab107@gmail.com<br/>
+  📍 Location: Mymensingh, Bangladesh
 </p>
+
+<p align="center"><i>Academic Portfolio • Research • Learning • Digital Work</i></p>

@@ -1,88 +1,131 @@
+<p align="center">
+  <img src="profile.jpg" alt="Mahatab Azmaine Refat" width="150" />
+</p>
+
 <h1 align="center">Mahatab Azmaine Refat</h1>
-<h3 align="center">Botany & Health Science Student | Emerging Researcher | Interdisciplinary Learner</h3>
 
 <p align="center">
-  <a href="https://azmainemahatab.github.io/">Portfolio</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/mahatabazmaine">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:rifatmahtab107@gmail.com">Email</a>
+  <strong>Health Science • Botany • Public Health • Environmental Health • Research • Data</strong>
+</p>
+
+<p align="center">
+  <a href="https://azmainemahatab.github.io/">Portfolio</a> •
+  <a href="https://github.com/azmainemahatab?tab=repositories">Projects</a> •
+  <a href="https://orcid.org/0009-0003-0763-1649">ORCID</a> •
+  <a href="https://www.researchgate.net/profile/Mahatab-Azmaine-Refat-2">ResearchGate</a> •
+  <a href="https://linkedin.com/in/mahatabazmaine">LinkedIn</a>
 </p>
 
 ---
 
-### About Me
+## About
 
-I'm a final-year **B.Sc. (Honours) in Botany** student at Gurudayal Government College (National University), also pursuing an **Associate Degree in Health Science** at the University of the People. My academic journey bridges **plant science, health, and research**, with a growing focus on evidence-based practice, data, and digital tools.
+I am building an interdisciplinary academic and professional profile at the intersection of **health science, plant science, public health, and environmental health**.
 
-- Building an interdisciplinary background across Botany and Health Science
-- Interested in plant–health relationships, public health, ethnobotany, and conservation biology
-- Volunteer mentor with the UNDP FutureNation Programme
-- Online volunteer with Zambia's Ministry of Youth, Sport and Arts (UN Volunteers)
-- Developing skills in data analysis, research, and scientific communication
-- Practical experience in web development, digital marketing, and SEO
-- Committed to continuous learning and academic growth
+My interests include **research, evidence synthesis, data analysis, scientific communication, and the relationship between environmental and biological factors and human health**.
 
----
+I am particularly interested in applying interdisciplinary approaches to research questions involving **health, plants, environments, and evidence-based decision-making**.
 
-### Academic & Professional Highlights
+## Areas of Focus
 
-| Area | Highlight |
-|---|---|
-| Academic Recognition | 4x President's List honoree |
-| Certifications | 22+ professional & academic certifications |
-| Research Communities | Member of 6 international scientific societies |
-| Professional Experience | Sales Manager (Pubali Bank), Admin/HR Intern (YSSE & BYOSD) |
-| Digital Outreach | 1,360+ YouTube subscribers |
+- **Health Science** — human health and health-related academic research
+- **Public Health** — population health, prevention, and evidence-based practice
+- **Botany & Plant Science** — plant science and plant–health relationships
+- **Environmental Health** — environmental factors and their connections to health outcomes
+- **Research & Evidence Synthesis** — literature review and research-oriented analysis
+- **Data & Analytics** — statistics, quantitative reasoning, data interpretation, and visualization
+- **Scientific Communication** — academic writing and communication of scientific information
+- **Digital Health & Technology** — digital tools and technology applied to health and academic work
 
----
+## Research Interests
 
-### Research & Professional Affiliations
-*(Student / Associate Member, since 2025)*
+My research interests focus on interdisciplinary questions connecting **human health, plant science, and environmental factors**.
 
-- European Federation of Biotechnology  
-- International Association for Plant Taxonomy  
-- Society for Ethnobotany  
-- Botanical Society of America  
-- Society for Conservation Biology  
-- Society for the Study of Evolution  
+Areas of particular interest include:
 
----
+- Public and environmental health
+- Plant–health relationships
+- Environmental determinants of health
+- Evidence-based health research
+- Research methodology and literature synthesis
+- Health data and quantitative analysis
+- Digital health and technology
+- Interdisciplinary approaches to health and environmental challenges
 
-### Technical & Research Skills
+## Education
 
-**Research & Academic**
-`Literature Review` `Evidence Synthesis` `Academic Writing` `APA Referencing` `Scientific Communication`
+### University of the People
+**Bachelor's Degree in Health Science**
+
+Academic interests: Health Science • Public Health • Environmental Health • Research
+
+### Botany
+**Honours in Botany**
+
+Academic interests: Plant Science • Biology • Plant–Health Relationships • Environmental Science
+
+## Academic Highlights
+
+- **President's List** — Academic recognition
+- **High Honors** — Associate Degree achievement
+- **Government of Kazakhstan Scholarship** — Space Engineering
+- **University of the People Institutional Scholarship** — Undergraduate educational support
+
+## Research & Academic Skills
+
+**Research**
+- Literature Review
+- Evidence Synthesis
+- Research-Oriented Analysis
+- Academic Research
+- Scientific Communication
 
 **Data & Analytics**
-`Statistics` `Data Interpretation` `Data Visualization` `Spreadsheet Analysis`
+- Statistics
+- Quantitative Reasoning
+- Data Interpretation
+- Data Visualization
+- Spreadsheet-Based Analysis
 
-**Technology**
-`HTML` `CSS` `JavaScript` `Git & GitHub` `GitHub Pages`
+**Academic Writing**
+- Academic Writing
+- APA-Style Referencing
+- Research Documentation
+- Scientific Information Communication
 
-**Business & Digital**
-`Digital Marketing` `SEO` `HR & Administration` `Sales Management`
+## Technology & Digital Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- GitHub Pages
+- Digital Content Development
+- Data & Spreadsheet Tools
+
+## Business & Digital Skills
+
+- Digital Marketing
+- Search Engine Optimization (SEO)
+- HR & Administration
+- Sales Management
+
+## Selected Work
+
+### Personal Academic & Research Portfolio
+
+A centralized portfolio presenting my **academic background, research interests, skills, experience, and selected work**.
+
+[Visit Portfolio](https://azmainemahatab.github.io/)
+
+## Professional & Academic Profiles
+
+- [GitHub](https://github.com/azmainemahatab)
+- [Portfolio](https://azmainemahatab.github.io/)
+- [LinkedIn](https://linkedin.com/in/mahatabazmaine)
 
 ---
 
-### Featured Project
-
-**[Personal Academic & Research Portfolio](https://azmainemahatab.github.io/)**
-A complete showcase of my academic background, research interests, leadership experience, skills, and certifications.
-Repository: [azmainemahatab.github.io](https://github.com/azmainemahatab/azmainemahatab.github.io)
-
----
-
-### Current Direction
-
-I'm continuing to build an interdisciplinary profile connecting **botany, health science, research, and technology** — with the long-term goal of contributing to evidence-informed work that bridges scientific knowledge with real-world impact.
-
----
-
-### Connect With Me
-
-<p align="left">
-  Portfolio: <a href="https://azmainemahatab.github.io/">azmainemahatab.github.io</a><br/>
-  LinkedIn: <a href="https://linkedin.com/in/mahatabazmaine">linkedin.com/in/mahatabazmaine</a><br/>
-  Location: Mymensingh, Bangladesh
+<p align="center">
+  <i>Building an interdisciplinary academic profile through health science, plant science, research, and technology.</i>
 </p>
-
-<p align="center"><i>Academic Portfolio • Research • Learning • Digital Work</i></p>
